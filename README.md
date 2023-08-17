@@ -37,16 +37,16 @@
 
 - Below are the snaps of various pages of the Web-App.
 - Register page
-- ![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(162).png)
+![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(162).png)
 
 - Login Page
-- ![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(163).png)
+![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(163).png)
 
 - Landing Page
-- ![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(165).png)
+![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(165).png)
 
 - Edit Profile Page
-- ![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(167).png)
+![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(167).png)
 
 - Creating a Note Page
-- ![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(164).png)
+![Alt Text](https://github.com/animesh624/Memories-animesh624d/blob/main/ReadmeImages/Screenshot%20(164).png)
